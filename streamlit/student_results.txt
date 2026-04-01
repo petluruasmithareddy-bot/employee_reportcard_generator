@@ -1,0 +1,26 @@
+Name: siva
+Total: 185.0
+Average: 92.50
+Grade: Grade A
+------------------------------
+Name: asmi
+Total: 189
+Average: 94.5
+Grade: Grade A
+------------------------------
+Name: ram
+math: 89.0
+science: 89.0
+english: 78.0
+Total: 256.0
+Average: 85.33
+Grade: Grade B
+------------------------------
+Name: lungi uncle
+math: 99
+phy: 90
+bio: 100
+Total: 289
+Average: 96.33333333333333
+Grade: Grade A
+------------------------------
